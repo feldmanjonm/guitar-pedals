@@ -1,3 +1,5 @@
 # guitar-pedals
 
-these are my digital guitar pedal ideas.  they all work.
+digital guitar pedals.
+
+copyright Cosmic Signals 2023.  This code can be used for non-commerical purposes only, such as education.
